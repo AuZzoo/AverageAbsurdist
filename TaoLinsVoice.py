@@ -10,10 +10,10 @@ tweetbot.read(book1)
 tweetbot.read(book2)
 
 #Twitter auth
-cons_key = 'CdCzXicQ1KrfDCArbQpryM7hM'
-cons_secret = 'DbU1njCMps99B37boiTjcS9TPoymHrVx7rrpz7em5roDKC4BPU'
-access_token = '820759897184686080-SherqvQ5cOv6vDnZJni0ORZiGclMUM8'
-access_token_secret = 'TBoLU4dfUVhRwSQRXAIqPIAggsd6R3TzhhdXtyJtV681V'
+cons_key = ''
+cons_secret = ''
+access_token = ''
+access_token_secret = ''
 
 tweetbot.twitter_login(cons_key, cons_secret, access_token, access_token_secret)
 
